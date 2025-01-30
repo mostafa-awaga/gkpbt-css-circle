@@ -44,4 +44,4 @@ Thank you for considering contributing to this project! Here’s how you can hel
 ## Reporting Issues
 If you find any bugs or have suggestions, please open an issue in the repository.
 
-Thank you for your contribution! 🚀
+Thank you for your contribution!
